@@ -1,0 +1,1955 @@
+{
+  "token_expiry": null,
+  "result": [
+    {
+      "id": "c07aed75de7cb71af7374d44825f1112",
+      "event_type_sort": 8,
+      "event_type": [
+        "Moon Time",
+        "Another"
+      ],
+      "name": "Registration",
+      "venue": "NASA Headquarters",
+      "address": "300 E. Street SW, Suite 5R30 Washington, DC 20546",
+      "artists": [
+        {
+          "username": "taylor_mcknight.1z2ayjca",
+          "id": "6996364",
+          "name": "Taylor McKnight",
+          "first_name": "Taylor",
+          "last_name": "McKnight"
+        }
+      ],
+      "seats": 0,
+      "rsvp_url": "https:\/\/google.com",
+      "start": 1571497200,
+      "end": 1571500800,
+      "start_date_group": "2019-10-19",
+      "lat": "38.8830586",
+      "lon": "-77.0168519",
+      "shortlink": "https:\/\/sched.co\/K7nC",
+      "custom_fields": [
+        {
+          "field": "Field",
+          "value": "http:\/\/hello.com"
+        }
+      ]
+    },
+    {
+      "id": "cd87ef377b2a8c95493b2e561381566a",
+      "event_type_sort": 5,
+      "event_type": [
+        "Block | Bloc 2"
+      ],
+      "name": "Spacewalk Simulator",
+      "venue": "Uranus Gallery",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "speakers": [
+        {
+          "username": "neil_armstrong.1w8kfpcj",
+          "id": "3677032",
+          "name": "Neil Armstrong",
+          "first_name": "Neil",
+          "last_name": "Armstrong",
+          "company": "NASA",
+          "custom_order": 0
+        },
+        {
+          "username": "peggy_witson.1z2ayjg5",
+          "id": "6996370",
+          "name": "Peggy Witson",
+          "first_name": "Peggy",
+          "last_name": "Witson",
+          "company": "NASA",
+          "custom_order": 1
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "nasa.1z2ayjf9",
+          "id": "6996373",
+          "name": "NASA",
+          "first_name": "NASA",
+          "last_name": ""
+        }
+      ],
+      "seats": 10,
+      "moderators": [
+        {
+          "username": "yuri_gagarin.73tw962",
+          "id": "6996400",
+          "name": "Yuri Gagarin",
+          "first_name": "Yuri",
+          "last_name": "Gagarin",
+          "eventid": "cd87ef377b2a8c95493b2e561381566a",
+          "role": "moderator",
+          "company": "Soviet Space Program"
+        },
+        {
+          "username": "racheldrudilinks",
+          "id": "4241674",
+          "name": "George Jetson",
+          "first_name": "George",
+          "last_name": "Jetson",
+          "eventid": "cd87ef377b2a8c95493b2e561381566a",
+          "role": "moderator"
+        }
+      ],
+      "company": [
+        "Intermediate"
+      ],
+      "audience": [
+        "Intermediate"
+      ],
+      "subject": [
+        "Intermediate"
+      ],
+      "geo_area": [
+        "Intermediate"
+      ],
+      "start": 1571500800,
+      "end": 1571508000,
+      "start_date_group": "2019-10-19",
+      "shortlink": "https:\/\/sched.co\/K7nF",
+      "custom_fields": [
+        {
+          "field": "Field",
+          "value": "Custom"
+        }
+      ],
+      "seats_status": "free",
+      "seats_title": "limited"
+    },
+    {
+      "id": "db96b37bb85de13bf415d35547f20f29",
+      "event_type_sort": 10,
+      "event_type": [
+        "Robotics"
+      ],
+      "name": "Robotics Banners",
+      "venue": "Mars Auditorium",
+      "description": "Create banners to represent the attributes of your <a href=\"https:\/\/en.wikipedia.org\/wiki\/Robotics\" target=\"_self\">robotics<\/a> group.",
+      "speakers": [
+        {
+          "username": "john_glenn.73tw95a",
+          "id": "6996379",
+          "name": "John Glenn",
+          "first_name": "John",
+          "last_name": "Glenn",
+          "company": "NASA",
+          "custom_order": 0
+        },
+        {
+          "username": "mae_jemison.1z2ayjia",
+          "id": "6996382",
+          "name": "Mae Jemison",
+          "first_name": "Mae",
+          "last_name": "Jemison",
+          "company": "NASA",
+          "custom_order": 1
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "lego.73tw95p",
+          "id": "6996385",
+          "name": "Lego",
+          "first_name": "Lego",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "moderators": [
+        {
+          "username": "neil_armstrong.1w8kfpcj",
+          "id": "3677032",
+          "name": "Neil Armstrong",
+          "first_name": "Neil",
+          "last_name": "Armstrong",
+          "eventid": "db96b37bb85de13bf415d35547f20f29",
+          "role": "moderator",
+          "company": "NASA"
+        }
+      ],
+      "start": 1571504400,
+      "end": 1571508000,
+      "start_date_group": "2019-10-19",
+      "shortlink": "https:\/\/sched.co\/K7nL"
+    },
+    {
+      "id": "58beb7efa54037900c212a9aa43d76c5",
+      "event_type_sort": 3,
+      "event_type": [
+        "Astronaut Training"
+      ],
+      "name": "Spacewalk Simulator 2",
+      "venue": "Saturn Conference Room",
+      "description": "This motion-based simulation features a spacewalk outside of the International Space Station.",
+      "speakers": [
+        {
+          "username": "neil_armstrong.1w8kfpcj",
+          "id": "3677032",
+          "name": "Neil Armstrong",
+          "first_name": "Neil",
+          "last_name": "Armstrong",
+          "company": "NASA",
+          "custom_order": 0
+        },
+        {
+          "username": "valentina_tereshkova.1z2ayjhi",
+          "id": "6996376",
+          "name": "Valentina Tereshkova",
+          "first_name": "Valentina",
+          "last_name": "Tereshkova",
+          "company": "Cosmonaut Corps",
+          "custom_order": 1
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "nasa.1z2ayjf9",
+          "id": "6996373",
+          "name": "NASA",
+          "first_name": "NASA",
+          "last_name": ""
+        }
+      ],
+      "seats": 2,
+      "company": [
+        "Intermediate"
+      ],
+      "start": 1571504400,
+      "end": 1571511600,
+      "start_date_group": "2019-10-19",
+      "shortlink": "https:\/\/sched.co\/K7nI",
+      "seats_status": "full",
+      "seats_title": "full"
+    },
+    {
+      "id": "fb6d8dfdc42841d3425c4fdf92112cc3",
+      "event_type_sort": 3,
+      "event_type": [
+        "Astronaut Training"
+      ],
+      "name": "Multi-Axis Trainer",
+      "venue": "Mars Auditorium",
+      "description": "This simulator, modeled after a trainer used in the Mercury program, allows the you to experience the disorientation astronauts would feel if a capsule went into a tumble spin.",
+      "speakers": [
+        {
+          "username": "sally_ride.1z2ayjny",
+          "id": "6996394",
+          "name": "Sally Ride",
+          "first_name": "Sally",
+          "last_name": "Ride",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "nasa.1z2ayjf9",
+          "id": "6996373",
+          "name": "NASA",
+          "first_name": "NASA",
+          "last_name": ""
+        }
+      ],
+      "seats": 3,
+      "moderators": [
+        {
+          "username": "peggy_witson.1z2ayjg5",
+          "id": "6996370",
+          "name": "Peggy Witson",
+          "first_name": "Peggy",
+          "last_name": "Witson",
+          "eventid": "fb6d8dfdc42841d3425c4fdf92112cc3",
+          "role": "moderator",
+          "company": "NASA"
+        }
+      ],
+      "company": [
+        "Advanced"
+      ],
+      "start": 1571508000,
+      "end": 1571511600,
+      "start_date_group": "2019-10-19",
+      "shortlink": "https:\/\/sched.co\/K7nR",
+      "seats_status": "free",
+      "seats_title": "limited"
+    },
+    {
+      "id": "bf0b472aa687b0214b3372808fc7de3f",
+      "event_type_sort": 3,
+      "event_type": [
+        "Astronaut Training"
+      ],
+      "name": "Spacewalk Simulator 3",
+      "venue": "Saturn Conference Room",
+      "description": "This motion-based simulation features a spacewalk outside of the International Space Station.",
+      "speakers": [
+        {
+          "username": "neil_armstrong.1w8kfpcj",
+          "id": "3677032",
+          "name": "Neil Armstrong",
+          "first_name": "Neil",
+          "last_name": "Armstrong",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "artists": [
+        {
+          "username": "le_artiste.1z2ayjl8",
+          "id": "6996388",
+          "name": "LE ARTISTE",
+          "first_name": "LE",
+          "last_name": "ARTISTE"
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "nasa.1z2ayjf9",
+          "id": "6996373",
+          "name": "NASA",
+          "first_name": "NASA",
+          "last_name": ""
+        }
+      ],
+      "exhibitors": [
+        {
+          "username": "tay_exh_mod.1z2ayjlh",
+          "id": "6996391",
+          "name": "Tay Exh Mod",
+          "first_name": "Tay Exh",
+          "last_name": "Mod"
+        }
+      ],
+      "seats": 20,
+      "moderators": [
+        {
+          "username": "sally_ride.1z2ayjny",
+          "id": "6996394",
+          "name": "Sally Ride",
+          "first_name": "Sally",
+          "last_name": "Ride",
+          "eventid": "bf0b472aa687b0214b3372808fc7de3f",
+          "role": "moderator",
+          "company": "NASA"
+        }
+      ],
+      "company": [
+        "Advanced",
+        "Intermediate"
+      ],
+      "start": 1571508000,
+      "end": 1571511600,
+      "start_date_group": "2019-10-19",
+      "shortlink": "https:\/\/sched.co\/K7nO",
+      "seats_status": "free",
+      "seats_title": "limited"
+    },
+    {
+      "id": "cfa04d5e8c5a7653c84bb092f9cb52d0",
+      "event_type_sort": 3,
+      "event_type": [
+        "Astronaut Training"
+      ],
+      "name": "Early Space History",
+      "venue": "NASA Headquarters",
+      "address": "300 E. Street SW, Suite 5R30 Washington, DC 20546",
+      "description": "In this session, trainees find out the inside story behind the beginnings of the space program. Highlights include stories of early rocket scientists and dreamers who perservered despite ridicule from their contemporaries, the reaction of Americans to the Soviet launch of Sputnik and how animals paved the way for manned launches.<br \/><br \/><a href=\"https:\/\/schedspacecamp2015.sched.org\/editor\/amazon.com\/earlyspacehistory\" target=\"_blank\">Purchase the book<\/a>",
+      "speakers": [
+        {
+          "username": "buzz_aldrin.1u3o2d4v",
+          "id": "2168712",
+          "name": "Buzz Aldrin",
+          "first_name": "Buzz",
+          "last_name": "Aldrin",
+          "company": "NASA",
+          "custom_order": 0
+        },
+        {
+          "username": "yuri_gagarin.73tw962",
+          "id": "6996400",
+          "name": "Yuri Gagarin",
+          "first_name": "Yuri",
+          "last_name": "Gagarin",
+          "company": "Soviet Space Program",
+          "custom_order": 1
+        },
+        {
+          "username": "john_glenn.73tw95a",
+          "id": "6996379",
+          "name": "John Glenn",
+          "first_name": "John",
+          "last_name": "Glenn",
+          "company": "NASA",
+          "custom_order": 2
+        }
+      ],
+      "seats": 5,
+      "start": 1571508900,
+      "end": 1571512500,
+      "start_date_group": "2019-10-19",
+      "lat": "38.8830586",
+      "lon": "-77.0168519",
+      "shortlink": "https:\/\/sched.co\/K7nU",
+      "seats_status": "free",
+      "seats_title": "limited"
+    },
+    {
+      "id": "b91846ab1443bb564ebcc7c4d63a1da2",
+      "event_type_sort": 11,
+      "event_type": [
+        "Space"
+      ],
+      "name": "Astronomy Stories",
+      "venue": "Uranus Gallery",
+      "description": "Learn about the reasons for and history behind constellations. Learn the Greek mythology versions of the constellations through story telling and roleplaying. Identifying various constellations in the sky and determining in what seasons certain constellations can be viewed is also part of the activity.",
+      "speakers": [
+        {
+          "username": "mlee525",
+          "id": "2247976",
+          "name": "michelle lee",
+          "first_name": "michelle",
+          "last_name": "lee",
+          "company": "SKELDELDEL DEEEE",
+          "custom_order": 0
+        },
+        {
+          "username": "sally_ride.1z2ayjny",
+          "id": "6996394",
+          "name": "Sally Ride",
+          "first_name": "Sally",
+          "last_name": "Ride",
+          "company": "NASA",
+          "custom_order": 1
+        }
+      ],
+      "seats": 0,
+      "moderators": [
+        {
+          "username": "buzz_aldrin.1u3o2d4v",
+          "id": "2168712",
+          "name": "Buzz Aldrin",
+          "first_name": "Buzz",
+          "last_name": "Aldrin",
+          "eventid": "b91846ab1443bb564ebcc7c4d63a1da2",
+          "role": "moderator",
+          "company": "NASA"
+        },
+        {
+          "username": "yuri_gagarin.73tw962",
+          "id": "6996400",
+          "name": "Yuri Gagarin",
+          "first_name": "Yuri",
+          "last_name": "Gagarin",
+          "eventid": "b91846ab1443bb564ebcc7c4d63a1da2",
+          "role": "moderator",
+          "company": "Soviet Space Program"
+        }
+      ],
+      "start": 1571558400,
+      "end": 1571562000,
+      "start_date_group": "2019-10-19",
+      "shortlink": "https:\/\/sched.co\/K7nX"
+    },
+    {
+      "id": "be93620c176abe449b38c2db9b28dd78",
+      "event_type_sort": 3,
+      "event_type": [
+        "Astronaut Training"
+      ],
+      "name": "Manned Maneuvering Unit (MMU)",
+      "venue": "Mars Auditorium",
+      "description": "Shuttle astronauts tested a jet pack known as the MMU in 1984. Learn the six degrees of freedom as you test our MMU simulator.",
+      "speakers": [
+        {
+          "username": "valentina_tereshkova.1z2ayjhi",
+          "id": "6996376",
+          "name": "Valentina Tereshkova",
+          "first_name": "Valentina",
+          "last_name": "Tereshkova",
+          "company": "Cosmonaut Corps",
+          "custom_order": 0
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "nasa.1z2ayjf9",
+          "id": "6996373",
+          "name": "NASA",
+          "first_name": "NASA",
+          "last_name": ""
+        }
+      ],
+      "seats": 6,
+      "start": 1571583600,
+      "end": 1571587200,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7na",
+      "seats_status": "free",
+      "seats_title": "limited"
+    },
+    {
+      "id": "77e7767301eb2065f657930fb9f96e23",
+      "event_type_sort": 10,
+      "event_type": [
+        "Robotics"
+      ],
+      "name": "Robotics Overview",
+      "venue": "Pluto Place",
+      "description": "This kick-off event introduces you to the International Space Station challenge, designed for Space Camp in conjunction with the Lego corporation.<br>Changes.<br>",
+      "speakers": [
+        {
+          "username": "john_glenn.73tw95a",
+          "id": "6996379",
+          "name": "John Glenn",
+          "first_name": "John",
+          "last_name": "Glenn",
+          "company": "NASA",
+          "custom_order": 0
+        },
+        {
+          "username": "valentina_tereshkova.1z2ayjhi",
+          "id": "6996376",
+          "name": "Valentina Tereshkova",
+          "first_name": "Valentina",
+          "last_name": "Tereshkova",
+          "company": "Cosmonaut Corps",
+          "custom_order": 1
+        }
+      ],
+      "seats": 10,
+      "start": 1571589000,
+      "end": 1571592600,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7ng",
+      "seats_status": "free",
+      "seats_title": "limited"
+    },
+    {
+      "id": "5cda6b005c80f5a5dda740e267ccf927",
+      "event_type_sort": 10,
+      "event_type": [
+        "Robotics"
+      ],
+      "name": "Strange Robotics",
+      "venue": "Pluto Place",
+      "description": "This session presents you to the many real world applications of robotics technology with a slide show and Lego examples.",
+      "speakers": [
+        {
+          "username": "john_glenn.73tw95a",
+          "id": "6996379",
+          "name": "John Glenn",
+          "first_name": "John",
+          "last_name": "Glenn",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "lego.73tw95p",
+          "id": "6996385",
+          "name": "Lego",
+          "first_name": "Lego",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "start": 1571589000,
+      "end": 1571592600,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7nj"
+    },
+    {
+      "id": "b81edc892c69128d8f7ed5355bd889f1",
+      "event_type_sort": 11,
+      "event_type": [
+        "Space",
+        "Hey"
+      ],
+      "name": "Aerodynamics and Aeronautics",
+      "venue": "Venus Room",
+      "description": "This session introduces you to the information you'll need in the flight simulators. Discuss the forces that act upon an aircraft in flight and the basics of aircraft design.<br><br><br>Update<br>",
+      "speakers": [
+        {
+          "username": "jim_lovell.1z2ayjq9",
+          "id": "6996403",
+          "name": "Jim Lovell",
+          "first_name": "Jim",
+          "last_name": "Lovell",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571589000,
+      "end": 1571592600,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7nd"
+    },
+    {
+      "id": "a26b9343d33c1b0bbfcc8cc28a870cc9",
+      "event_type_sort": 9,
+      "event_type": [
+        "* Physical Training"
+      ],
+      "name": "Water Activities",
+      "venue": "Neptune Lake",
+      "description": "Astronauts train underwater because neutral buoyancy is the closest we can come on earth to creating a weightless environment in which astronauts can train. The activities are designed to create some of those same sensations as well as opportunities for teams to work together and practice team-building skills.",
+      "speakers": [
+        {
+          "username": "neil_armstrong.1w8kfpcj",
+          "id": "3677032",
+          "name": "Neil Armstrong",
+          "first_name": "Neil",
+          "last_name": "Armstrong",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571594400,
+      "end": 1571598000,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7nm"
+    },
+    {
+      "id": "8854fe157faa999b798584ac4d239c54",
+      "event_type_sort": 7,
+      "event_type": [
+        "*History"
+      ],
+      "name": "Astronaut Missions: Mercury",
+      "venue": "Mercury Exhibition Hall",
+      "description": "Trainees discover how NASA chose the first seven astronauts and what they accomplished.",
+      "speakers": [
+        {
+          "username": "sally_ride.1z2ayjny",
+          "id": "6996394",
+          "name": "Sally Ride",
+          "first_name": "Sally",
+          "last_name": "Ride",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "moderators": [
+        {
+          "username": "buzz_aldrin.1u3o2d4v",
+          "id": "2168712",
+          "name": "Buzz Aldrin",
+          "first_name": "Buzz",
+          "last_name": "Aldrin",
+          "eventid": "8854fe157faa999b798584ac4d239c54",
+          "role": "moderator",
+          "company": "NASA"
+        }
+      ],
+      "start": 1571594400,
+      "end": 1571598000,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7np"
+    },
+    {
+      "id": "7d59e12ab10dd82ebaac2ffaa48f00b2",
+      "event_type_sort": 7,
+      "event_type": [
+        "*History"
+      ],
+      "name": "Mission Debrief",
+      "venue": "Jupiter Hall",
+      "description": "The mission debrief is a time to discuss and celebrate the completed mission and to share the comments made by Simulations staff.",
+      "speakers": [
+        {
+          "username": "chris_hadfield.73tw969",
+          "id": "6996406",
+          "name": "Chris Hadfield",
+          "first_name": "Chris",
+          "last_name": "Hadfield",
+          "company": "Canadian Space Agency",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571599800,
+      "end": 1571603400,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7ns"
+    },
+    {
+      "id": "0fcf541590e5aa28dabbf0ba5b386b54",
+      "event_type_sort": 1,
+      "event_type": [
+        "1. Get Together"
+      ],
+      "name": "Shuttle Exhibit",
+      "venue": "NASA Headquarters",
+      "address": "300 E. Street SW, Suite 5R30 Washington, DC 20546",
+      "description": "Expore the new Space and Rocket Center shuttle exhibit and discuss the highlights of twenty years of shuttle flights.",
+      "speakers": [
+        {
+          "username": "buzz_aldrin.1u3o2d4v",
+          "id": "2168712",
+          "name": "Buzz Aldrin",
+          "first_name": "Buzz",
+          "last_name": "Aldrin",
+          "company": "NASA",
+          "custom_order": 0
+        },
+        {
+          "username": "peggy_witson.1z2ayjg5",
+          "id": "6996370",
+          "name": "Peggy Witson",
+          "first_name": "Peggy",
+          "last_name": "Witson",
+          "company": "NASA",
+          "custom_order": 1
+        }
+      ],
+      "seats": 0,
+      "start": 1571601600,
+      "end": 1571605200,
+      "start_date_group": "2019-10-20",
+      "lat": "38.8830586",
+      "lon": "-77.0168519",
+      "shortlink": "https:\/\/sched.co\/K7nv"
+    },
+    {
+      "id": "668b15fee8533060bae300229159f95a",
+      "event_type_sort": 1,
+      "event_type": [
+        "1. Get Together"
+      ],
+      "name": "Walking Tour",
+      "venue": "Venus Room",
+      "description": "See how engineers solved design problems in a variety of ways by seeing a collection of eight retired aircraft that are not open to the public. Highlights include a T-38 Talon which NASA has used to monitor the orbiter during landing, an F-14 Tomcat used in the popular film Top Gun and an F-4 Phantom that has a confirmed air combat victory.<br><br><br>",
+      "speakers": [
+        {
+          "username": "jim_lovell.1z2ayjq9",
+          "id": "6996403",
+          "name": "Jim Lovell",
+          "first_name": "Jim",
+          "last_name": "Lovell",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "company": [
+        "Beginner"
+      ],
+      "start": 1571603400,
+      "end": 1571607000,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7o1"
+    },
+    {
+      "id": "b96dca42bd7091961291ca1de48f446c",
+      "event_type_sort": 3,
+      "event_type": [
+        "Astronaut Training"
+      ],
+      "name": "Climbing Wall",
+      "venue": "Saturn Conference Room",
+      "description": "Test your strength on the Mars Climbing Wall.",
+      "speakers": [
+        {
+          "username": "neil_armstrong.1w8kfpcj",
+          "id": "3677032",
+          "name": "Neil Armstrong",
+          "first_name": "Neil",
+          "last_name": "Armstrong",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "nasa.1z2ayjf9",
+          "id": "6996373",
+          "name": "NASA",
+          "first_name": "NASA",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "company": [
+        "Beginner"
+      ],
+      "start": 1571603400,
+      "end": 1571607000,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7ny"
+    },
+    {
+      "id": "716d13f15a6b4fd52be11f96327c6f8e",
+      "event_type_sort": 10,
+      "event_type": [
+        "Robotics"
+      ],
+      "name": "Lego Teamwork",
+      "venue": "Pluto Place",
+      "description": "In this communication activity, become familiar with the wide variety of Lego Mindstorms elements and the importance of a shared technical vocabulary.",
+      "speakers": [
+        {
+          "username": "john_glenn.73tw95a",
+          "id": "6996379",
+          "name": "John Glenn",
+          "first_name": "John",
+          "last_name": "Glenn",
+          "company": "NASA",
+          "custom_order": 0
+        },
+        {
+          "username": "mae_jemison.1z2ayjia",
+          "id": "6996382",
+          "name": "Mae Jemison",
+          "first_name": "Mae",
+          "last_name": "Jemison",
+          "company": "NASA",
+          "custom_order": 1
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "lego.73tw95p",
+          "id": "6996385",
+          "name": "Lego",
+          "first_name": "Lego",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "start": 1571603400,
+      "end": 1571607000,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7o4"
+    },
+    {
+      "id": "9950457681ea178224c805db97cffa14",
+      "event_type_sort": 11,
+      "event_type": [
+        "Space"
+      ],
+      "name": "Get it Together",
+      "venue": "Uranus Gallery",
+      "description": "Introduction to the International Space Station. This activity brings the magnitude and scale of the ISS through use of real world examples.",
+      "speakers": [
+        {
+          "username": "yuri_gagarin.73tw962",
+          "id": "6996400",
+          "name": "Yuri Gagarin",
+          "first_name": "Yuri",
+          "last_name": "Gagarin",
+          "company": "Soviet Space Program",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571603400,
+      "end": 1571607000,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7o7"
+    },
+    {
+      "id": "b38e2f22762ef79f1a68ad93b293289c",
+      "event_type_sort": 11,
+      "event_type": [
+        "Space"
+      ],
+      "name": "Museum Hunt",
+      "venue": "Museum",
+      "description": "This scavenger hunt allows you to explore all of the space memorabilia inside the Space and Rocket Center museum including a moon rock, an Apollo capsule and last remaining fragment of Skylab.",
+      "seats": 0,
+      "start": 1571605200,
+      "end": 1571608800,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7oD"
+    },
+    {
+      "id": "8ed29453139790bf67e40ed3d177eef7",
+      "event_type_sort": 11,
+      "event_type": [
+        "Space"
+      ],
+      "name": "Rocket Park\/Shuttle Park",
+      "venue": "Rocket Park",
+      "description": "Participate in a scavenger hunt in Rocket Park, a collection of the launch vehicles America used to launch astronauts into space including the largest rocket ever lauched, the Saturn V and a full size Space Shuttle model.",
+      "speakers": [
+        {
+          "username": "chris_hadfield.73tw969",
+          "id": "6996406",
+          "name": "Chris Hadfield",
+          "first_name": "Chris",
+          "last_name": "Hadfield",
+          "company": "Canadian Space Agency",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571605200,
+      "end": 1571608800,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7oA"
+    },
+    {
+      "id": "b562d00a8571e274cc21d2ce44ef540d",
+      "event_type_sort": 11,
+      "event_type": [
+        "Space"
+      ],
+      "name": "Mission Orientation",
+      "venue": "Jupiter Hall",
+      "description": "This session is designed to introduce you to your simulated mission. The positions of the orbiter, space station and mission control crew are introduced with video clips and slides. After understanding the objectives of the mission fill out a questionnaire that is used to determine mission positions.",
+      "speakers": [
+        {
+          "username": "chris_hadfield.73tw969",
+          "id": "6996406",
+          "name": "Chris Hadfield",
+          "first_name": "Chris",
+          "last_name": "Hadfield",
+          "company": "Canadian Space Agency",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571608800,
+      "end": 1571612400,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7oG"
+    },
+    {
+      "id": "34c7be10947a5961ba6315515d46788c",
+      "event_type_sort": 11,
+      "event_type": [
+        "Space"
+      ],
+      "name": "Shuttle Orientation",
+      "venue": "Jupiter Hall",
+      "description": "Learn the basic systems of the Space Shuttle. The emphasis is placed on the vocabulary and concepts you will need to understand the simulated mission. Following this lecture, two games will be played with the team leader to reinforce the timeline and NASA’s acronyms.<br>",
+      "speakers": [
+        {
+          "username": "eileen_collins.1z2ayjr8",
+          "id": "6996409",
+          "name": "Eileen Collins",
+          "first_name": "Eileen",
+          "last_name": "Collins",
+          "company": "Air Force",
+          "custom_order": 0
+        },
+        {
+          "username": "chris_hadfield.73tw969",
+          "id": "6996406",
+          "name": "Chris Hadfield",
+          "first_name": "Chris",
+          "last_name": "Hadfield",
+          "company": "Canadian Space Agency",
+          "custom_order": 1
+        }
+      ],
+      "seats": 0,
+      "start": 1571614200,
+      "end": 1571617800,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7oJ"
+    },
+    {
+      "id": "d93164a3a159ab97d6a05d5b1f84b2a5",
+      "event_type_sort": 1,
+      "event_type": [
+        "1. Get Together"
+      ],
+      "name": "Journey To Space",
+      "venue": "Uranus Gallery",
+      "description": "Journey to Space uses visually stunning imagery and commentary from leading space experts to review NASA's recent adventures and illustrate its upcoming challenges—exploring deep space and eventually sending a manned craft to Mars. Through brilliant narration by film and television icon Sir Patrick Stewart and extensive interviews with NASA astronauts Chris Ferguson and Serena Aunon, the film captures the spirit of human exploration and depicts how NASA has transitioned from the end of the space shuttle era to a much more ambitious future that will forever change how we live and operate in space. Meet the new machines and craft that will help NASA write this new chapter in space exploration. Take a look back at the space shuttle program and its 135 missions flown by 355 astronauts. Learn how the shuttle program's last major project—the launch and assembly of the International Space Station—will now help to reveal the challenges that may face our deep space explorers on their way toward new frontiers.",
+      "sponsors": [
+        {
+          "username": "imax.1z2ayjrb",
+          "id": "6996412",
+          "name": "IMAX",
+          "first_name": "IMAX",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "start": 1571641200,
+      "end": 1571644800,
+      "start_date_group": "2019-10-20",
+      "shortlink": "https:\/\/sched.co\/K7oM"
+    },
+    {
+      "id": "f74c9be368cc62442bbf2a576e4753fb",
+      "event_type_sort": 3,
+      "event_type": [
+        "Astronaut Training"
+      ],
+      "name": "G Force",
+      "venue": "Mars Auditorium",
+      "description": "This simulator is designed to prepare you for the forces of acceleration experienced by astronauts during launch, the times the force of Earth&rsquo;s gravity.",
+      "sponsors": [
+        {
+          "username": "nasa.1z2ayjf9",
+          "id": "6996373",
+          "name": "NASA",
+          "first_name": "NASA",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "start": 1571670000,
+      "end": 1571673600,
+      "start_date_group": "2019-10-21",
+      "shortlink": "https:\/\/sched.co\/K7oP"
+    },
+    {
+      "id": "16e88f51ccd9c1756cc4992b506c6829",
+      "event_type_sort": 4,
+      "event_type": [
+        "Aviation"
+      ],
+      "name": "Flight Simulators",
+      "venue": "Venus Room",
+      "description": "Practice take-off, landing and basic maneuvers in four computer simulations that allow the you to see the principles of flight in action.",
+      "speakers": [
+        {
+          "username": "eileen_collins.1z2ayjr8",
+          "id": "6996409",
+          "name": "Eileen Collins",
+          "first_name": "Eileen",
+          "last_name": "Collins",
+          "company": "Air Force",
+          "custom_order": 0
+        },
+        {
+          "username": "jim_lovell.1z2ayjq9",
+          "id": "6996403",
+          "name": "Jim Lovell",
+          "first_name": "Jim",
+          "last_name": "Lovell",
+          "company": "NASA",
+          "custom_order": 1
+        }
+      ],
+      "seats": 0,
+      "start": 1571675400,
+      "end": 1571679000,
+      "start_date_group": "2019-10-21",
+      "shortlink": "https:\/\/sched.co\/K7oV"
+    },
+    {
+      "id": "aa377f427bca0da7c7e5a43a13352a5a",
+      "event_type_sort": 10,
+      "event_type": [
+        "Robotics"
+      ],
+      "name": "Engineering Workshop",
+      "venue": "Pluto Place",
+      "description": "This session uses a Lego model, the Mars Car, to teach you the steps of the design process and basic building strategies. You have an opportunity to experiment with different gear and pulley combinations before you race your creations at the end of the session.",
+      "speakers": [
+        {
+          "username": "john_glenn.73tw95a",
+          "id": "6996379",
+          "name": "John Glenn",
+          "first_name": "John",
+          "last_name": "Glenn",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "lego.73tw95p",
+          "id": "6996385",
+          "name": "Lego",
+          "first_name": "Lego",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "start": 1571675400,
+      "end": 1571679000,
+      "start_date_group": "2019-10-21",
+      "shortlink": "https:\/\/sched.co\/K7oY"
+    },
+    {
+      "id": "6615e69742031e5b53140604acf9836c",
+      "event_type_sort": 11,
+      "event_type": [
+        "Space"
+      ],
+      "name": "BEAM ME Up!",
+      "venue": "Uranus Gallery",
+      "description": "This session utilizes four experiments to teach the you about the scientific method and the wide variety of experiments conducted on the International Space Station. Each group of four completes one experiment.",
+      "speakers": [
+        {
+          "username": "yuri_gagarin.73tw962",
+          "id": "6996400",
+          "name": "Yuri Gagarin",
+          "first_name": "Yuri",
+          "last_name": "Gagarin",
+          "company": "Soviet Space Program",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571675400,
+      "end": 1571679000,
+      "start_date_group": "2019-10-21",
+      "shortlink": "https:\/\/sched.co\/K7ob"
+    },
+    {
+      "id": "d1a08728e180f300f9b82497fe5c5e1d",
+      "event_type_sort": 9,
+      "event_type": [
+        "* Physical Training"
+      ],
+      "name": "Water Activities",
+      "venue": "Neptune Lake",
+      "description": "Astronauts train underwater because neutral buoyancy is the closest we can come on earth to creating a weightless environment in which astronauts can train. The activities are designed to create some of those same sensations as well as opportunities for teams to work together and practice team-building skills.",
+      "speakers": [
+        {
+          "username": "neil_armstrong.1w8kfpcj",
+          "id": "3677032",
+          "name": "Neil Armstrong",
+          "first_name": "Neil",
+          "last_name": "Armstrong",
+          "company": "NASA",
+          "custom_order": 0
+        },
+        {
+          "username": "peggy_witson.1z2ayjg5",
+          "id": "6996370",
+          "name": "Peggy Witson",
+          "first_name": "Peggy",
+          "last_name": "Witson",
+          "company": "NASA",
+          "custom_order": 1
+        }
+      ],
+      "seats": 0,
+      "start": 1571680800,
+      "end": 1571684400,
+      "start_date_group": "2019-10-21",
+      "shortlink": "https:\/\/sched.co\/K7ok"
+    },
+    {
+      "id": "a337ecb19fd3ef0302db2e12d8c96c8e",
+      "event_type_sort": 7,
+      "event_type": [
+        "*History"
+      ],
+      "name": "Astronaut Missions: Gemini",
+      "venue": "Mercury Exhibition Hall",
+      "description": "Here trainees learn the steps that NASA took to test the many manuvers and procedures that would eventually take us to the moon.",
+      "speakers": [
+        {
+          "username": "buzz_aldrin.1u3o2d4v",
+          "id": "2168712",
+          "name": "Buzz Aldrin",
+          "first_name": "Buzz",
+          "last_name": "Aldrin",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571680800,
+      "end": 1571684400,
+      "start_date_group": "2019-10-21",
+      "shortlink": "https:\/\/sched.co\/K7oh"
+    },
+    {
+      "id": "74fb7b591801ee103c03c383ffc43804",
+      "event_type_sort": 3,
+      "event_type": [
+        "Astronaut Training"
+      ],
+      "name": "5-Degrees of Freedom Chair",
+      "venue": "Mars Auditorium",
+      "description": "This simulator simulates the five degrees of freedom, forward, backward, side-to-side, roll, pitch and yaw. Performing these movements simulate what it would be like to work in the frictionless environment of space during an EVA. They also demonstrate Newton&rsquo;s Third Law of Motion.",
+      "speakers": [
+        {
+          "username": "eileen_collins.1z2ayjr8",
+          "id": "6996409",
+          "name": "Eileen Collins",
+          "first_name": "Eileen",
+          "last_name": "Collins",
+          "company": "Air Force",
+          "custom_order": 0
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "nasa.1z2ayjf9",
+          "id": "6996373",
+          "name": "NASA",
+          "first_name": "NASA",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "start": 1571680800,
+      "end": 1571684400,
+      "start_date_group": "2019-10-21",
+      "shortlink": "https:\/\/sched.co\/K7oe"
+    },
+    {
+      "id": "00703d544f8823d78f88992dc7ff653f",
+      "event_type_sort": 3,
+      "event_type": [
+        "Astronaut Training"
+      ],
+      "name": "Why Space?",
+      "venue": "Saturn Conference Room",
+      "description": "Discuss why scientists chose to explore space, and learn about common products developed with space technology.",
+      "speakers": [
+        {
+          "username": "neil_armstrong.1w8kfpcj",
+          "id": "3677032",
+          "name": "Neil Armstrong",
+          "first_name": "Neil",
+          "last_name": "Armstrong",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "nasa.1z2ayjf9",
+          "id": "6996373",
+          "name": "NASA",
+          "first_name": "NASA",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "start": 1571689800,
+      "end": 1571693400,
+      "start_date_group": "2019-10-21",
+      "media_url": "https:\/\/static.sched.com\/hosted_files\/schedspacecamp2015\/93\/Reach-for-the-Stars.jpg",
+      "shortlink": "https:\/\/sched.co\/K7on"
+    },
+    {
+      "id": "3693dea8be11b616e91ed7e5a4f8a471",
+      "event_type_sort": 4,
+      "event_type": [
+        "Aviation"
+      ],
+      "name": "Land Survival",
+      "venue": "Venus Room",
+      "description": "Aircraft may not always work, and pilots should be prepared for any situation. Like pilots and astronauts, learn the basics of land survival.<br>",
+      "speakers": [
+        {
+          "username": "mae_jemison.1z2ayjia",
+          "id": "6996382",
+          "name": "Mae Jemison",
+          "first_name": "Mae",
+          "last_name": "Jemison",
+          "company": "NASA",
+          "custom_order": 0
+        },
+        {
+          "username": "jim_lovell.1z2ayjq9",
+          "id": "6996403",
+          "name": "Jim Lovell",
+          "first_name": "Jim",
+          "last_name": "Lovell",
+          "company": "NASA",
+          "custom_order": 1
+        }
+      ],
+      "seats": 0,
+      "start": 1571689800,
+      "end": 1571693400,
+      "start_date_group": "2019-10-21",
+      "shortlink": "https:\/\/sched.co\/K7oq"
+    },
+    {
+      "id": "28e2a8e3cc0ebfa8db22cc6e88ddd8d9",
+      "event_type_sort": 10,
+      "event_type": [
+        "Robotics"
+      ],
+      "name": "Programming Workshop",
+      "venue": "Pluto Place",
+      "description": "In this session you learn to use Robolab, a powerful programming language, to command robotic creations.",
+      "speakers": [
+        {
+          "username": "john_glenn.73tw95a",
+          "id": "6996379",
+          "name": "John Glenn",
+          "first_name": "John",
+          "last_name": "Glenn",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "lego.73tw95p",
+          "id": "6996385",
+          "name": "Lego",
+          "first_name": "Lego",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "start": 1571689800,
+      "end": 1571693400,
+      "start_date_group": "2019-10-21",
+      "shortlink": "https:\/\/sched.co\/K7ot"
+    },
+    {
+      "id": "ac9653757ffc030f3ec932749627f62e",
+      "event_type_sort": 11,
+      "event_type": [
+        "Space"
+      ],
+      "name": "Strange Science",
+      "venue": "Uranus Gallery",
+      "description": "This highly interactive and energetic presentation about the amazing things space has to offer. These simple demonstrations illustrate principles as they relate to space exploration.",
+      "speakers": [
+        {
+          "username": "yuri_gagarin.73tw962",
+          "id": "6996400",
+          "name": "Yuri Gagarin",
+          "first_name": "Yuri",
+          "last_name": "Gagarin",
+          "company": "Soviet Space Program",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571689800,
+      "end": 1571693400,
+      "start_date_group": "2019-10-21",
+      "shortlink": "https:\/\/sched.co\/K7ow"
+    },
+    {
+      "id": "bdfbd1b7ed439651ad97ddbcd28b36bf",
+      "event_type_sort": 11,
+      "event_type": [
+        "Space"
+      ],
+      "name": "Mission Training",
+      "venue": "Jupiter Hall",
+      "description": "Experience a one and half hour mission. Each member of the team will be trained in a specialized role in Mission Control or the Orbiter and Space Station simulators.",
+      "speakers": [
+        {
+          "username": "chris_hadfield.73tw969",
+          "id": "6996406",
+          "name": "Chris Hadfield",
+          "first_name": "Chris",
+          "last_name": "Hadfield",
+          "company": "Canadian Space Agency",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571695200,
+      "end": 1571698800,
+      "start_date_group": "2019-10-21",
+      "shortlink": "https:\/\/sched.co\/K7oz"
+    },
+    {
+      "id": "807b06d3c0f3d939750f3b33863d6061",
+      "event_type_sort": 11,
+      "event_type": [
+        "Space"
+      ],
+      "name": "Script Practice",
+      "venue": "Jupiter Hall",
+      "description": "This is the last practice before the mission commences.",
+      "speakers": [
+        {
+          "username": "chris_hadfield.73tw969",
+          "id": "6996406",
+          "name": "Chris Hadfield",
+          "first_name": "Chris",
+          "last_name": "Hadfield",
+          "company": "Canadian Space Agency",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571700600,
+      "end": 1571704200,
+      "start_date_group": "2019-10-21",
+      "shortlink": "https:\/\/sched.co\/K7p2"
+    },
+    {
+      "id": "2de6f968065a2a43e846025781d5a14c",
+      "event_type_sort": 3,
+      "event_type": [
+        "Astronaut Training"
+      ],
+      "name": "Crew Systems (title changed, body changed)",
+      "venue": "Saturn Conference Room",
+      "description": "Part of astronaut training is learning how to sleep, eat and work in space. This session answers commonly asked questions about how astronauts perform everyday activities in microgravity.<br><br>New date: Oct 21 6pm<br><br>Modified text",
+      "speakers": [
+        {
+          "username": "neil_armstrong.1w8kfpcj",
+          "id": "3677032",
+          "name": "Neil Armstrong",
+          "first_name": "Neil",
+          "last_name": "Armstrong",
+          "company": "NASA",
+          "custom_order": 0
+        },
+        {
+          "username": "mae_jemison.1z2ayjia",
+          "id": "6996382",
+          "name": "Mae Jemison",
+          "first_name": "Mae",
+          "last_name": "Jemison",
+          "company": "NASA",
+          "custom_order": 1
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "nasa.1z2ayjf9",
+          "id": "6996373",
+          "name": "NASA",
+          "first_name": "NASA",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "start": 1571706000,
+      "end": 1571709600,
+      "start_date_group": "2019-10-21",
+      "shortlink": "https:\/\/sched.co\/K7oS"
+    },
+    {
+      "id": "e7be8d88e245632b46e70f68c2799286",
+      "event_type_sort": 1,
+      "event_type": [
+        "1. Get Together"
+      ],
+      "name": "Robots",
+      "venue": "Uranus Gallery",
+      "description": "Today's robots are nothing short of astonishing. Those coming in the not-too-distant future are simply revolutionary—and they are becoming eerily like us. What does it take to make a humanoid robot—a robot that can do anything we can do without the benefit of a human brain? How close are scientists to replicating some of the particularly challenging human characteristics? (Think fingers and toes.) Why are we even attempting to create humanoids in the first place? ROBOTS answers these questions and more as it showcases the latest developments—the successes and failures—of robotics around the world. ROBOTS is a fascinating and fun look at what makes us human, how far machines can really go to look and act like us, and how humanoids are already changing our world. ROBOTS is a sneak peek into the future at what might be possible as scientists use innovative engineering and design to make cyber characters less \"humanoid\" and more just plain human. Robot \"actor\" RoboThespian will introduce you to CHIMP, ATLAS, PR-2, Herb the Butler, ICUB, and others as he takes you on an amazing tour of what's going on in robotics labs around the world.",
+      "speakers": [
+        {
+          "username": "valentina_tereshkova.1z2ayjhi",
+          "id": "6996376",
+          "name": "Valentina Tereshkova",
+          "first_name": "Valentina",
+          "last_name": "Tereshkova",
+          "company": "Cosmonaut Corps",
+          "custom_order": 0
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "imax.1z2ayjrb",
+          "id": "6996412",
+          "name": "IMAX",
+          "first_name": "IMAX",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "start": 1571709600,
+      "end": 1571716800,
+      "start_date_group": "2019-10-21",
+      "shortlink": "https:\/\/sched.co\/K7p5"
+    },
+    {
+      "id": "c2c5368d67f51f7920c267e537b87ad1",
+      "event_type_sort": 7,
+      "event_type": [
+        "*History"
+      ],
+      "name": "Graduation",
+      "venue": "NASA Headquarters",
+      "address": "300 E. Street SW, Suite 5R30 Washington, DC 20546",
+      "speakers": [
+        {
+          "username": "buzz_aldrin.1u3o2d4v",
+          "id": "2168712",
+          "name": "Buzz Aldrin",
+          "first_name": "Buzz",
+          "last_name": "Aldrin",
+          "company": "NASA",
+          "custom_order": 0
+        },
+        {
+          "username": "neil_armstrong.1w8kfpcj",
+          "id": "3677032",
+          "name": "Neil Armstrong",
+          "first_name": "Neil",
+          "last_name": "Armstrong",
+          "company": "NASA",
+          "custom_order": 1
+        },
+        {
+          "username": "eileen_collins.1z2ayjr8",
+          "id": "6996409",
+          "name": "Eileen Collins",
+          "first_name": "Eileen",
+          "last_name": "Collins",
+          "company": "Air Force",
+          "custom_order": 2
+        },
+        {
+          "username": "yuri_gagarin.73tw962",
+          "id": "6996400",
+          "name": "Yuri Gagarin",
+          "first_name": "Yuri",
+          "last_name": "Gagarin",
+          "company": "Soviet Space Program",
+          "custom_order": 3
+        },
+        {
+          "username": "john_glenn.73tw95a",
+          "id": "6996379",
+          "name": "John Glenn",
+          "first_name": "John",
+          "last_name": "Glenn",
+          "company": "NASA",
+          "custom_order": 4
+        },
+        {
+          "username": "chris_hadfield.73tw969",
+          "id": "6996406",
+          "name": "Chris Hadfield",
+          "first_name": "Chris",
+          "last_name": "Hadfield",
+          "company": "Canadian Space Agency",
+          "custom_order": 5
+        },
+        {
+          "username": "mae_jemison.1z2ayjia",
+          "id": "6996382",
+          "name": "Mae Jemison",
+          "first_name": "Mae",
+          "last_name": "Jemison",
+          "company": "NASA",
+          "custom_order": 6
+        },
+        {
+          "username": "jim_lovell.1z2ayjq9",
+          "id": "6996403",
+          "name": "Jim Lovell",
+          "first_name": "Jim",
+          "last_name": "Lovell",
+          "company": "NASA",
+          "custom_order": 7
+        },
+        {
+          "username": "sally_ride.1z2ayjny",
+          "id": "6996394",
+          "name": "Sally Ride",
+          "first_name": "Sally",
+          "last_name": "Ride",
+          "company": "NASA",
+          "custom_order": 8
+        },
+        {
+          "username": "valentina_tereshkova.1z2ayjhi",
+          "id": "6996376",
+          "name": "Valentina Tereshkova",
+          "first_name": "Valentina",
+          "last_name": "Tereshkova",
+          "company": "Cosmonaut Corps",
+          "custom_order": 9
+        },
+        {
+          "username": "peggy_witson.1z2ayjg5",
+          "id": "6996370",
+          "name": "Peggy Witson",
+          "first_name": "Peggy",
+          "last_name": "Witson",
+          "company": "NASA",
+          "custom_order": 10
+        }
+      ],
+      "seats": 0,
+      "start": 1571738400,
+      "end": 1571742000,
+      "start_date_group": "2019-10-21",
+      "lat": "38.8830586",
+      "lon": "-77.0168519",
+      "shortlink": "https:\/\/sched.co\/K7p8"
+    },
+    {
+      "id": "0fa37c6eb30ca17ec16818162d88d89f",
+      "event_type_sort": 3,
+      "event_type": [
+        "Astronaut Training"
+      ],
+      "name": "Space Shot",
+      "venue": "Mars Auditorium",
+      "description": "This exciting simulator launches the you 140 feet in 2.5 seconds allowing you to feel four times the force of Earth&rsquo;s gravity and 2-3 seconds of freefall.",
+      "speakers": [
+        {
+          "username": "buzz_aldrin.1u3o2d4v",
+          "id": "2168712",
+          "name": "Buzz Aldrin",
+          "first_name": "Buzz",
+          "last_name": "Aldrin",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "nasa.1z2ayjf9",
+          "id": "6996373",
+          "name": "NASA",
+          "first_name": "NASA",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "start": 1571756400,
+      "end": 1571760000,
+      "start_date_group": "2019-10-22",
+      "shortlink": "https:\/\/sched.co\/K7pB"
+    },
+    {
+      "id": "54e803ad3ea89ab77422424d2bee83c8",
+      "event_type_sort": 3,
+      "event_type": [
+        "Astronaut Training"
+      ],
+      "name": "Liftoff",
+      "venue": "Saturn Conference Room",
+      "description": "Take the role of a shuttle commander during launch in this computer simulation.",
+      "speakers": [
+        {
+          "username": "neil_armstrong.1w8kfpcj",
+          "id": "3677032",
+          "name": "Neil Armstrong",
+          "first_name": "Neil",
+          "last_name": "Armstrong",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "nasa.1z2ayjf9",
+          "id": "6996373",
+          "name": "NASA",
+          "first_name": "NASA",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "start": 1571761800,
+      "end": 1571765400,
+      "start_date_group": "2019-10-22",
+      "shortlink": "https:\/\/sched.co\/K7pE"
+    },
+    {
+      "id": "7110ec961d226719e460a26bc0392dcb",
+      "event_type_sort": 4,
+      "event_type": [
+        "Aviation"
+      ],
+      "name": "Flight Physiology",
+      "venue": "Venus Room",
+      "description": "Investigate the spatial disorientation a pilot feels when aircraft malfunction in the Barney Chair, a training device used in pilot training programs worldwide. Concepts include aileron malfunction, tail rotor failure and their physiological effects on body systems.",
+      "speakers": [
+        {
+          "username": "jim_lovell.1z2ayjq9",
+          "id": "6996403",
+          "name": "Jim Lovell",
+          "first_name": "Jim",
+          "last_name": "Lovell",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571761800,
+      "end": 1571765400,
+      "start_date_group": "2019-10-22",
+      "shortlink": "https:\/\/sched.co\/K7pH"
+    },
+    {
+      "id": "3f48b90d10361752e1991db571f41dc8",
+      "event_type_sort": 9,
+      "event_type": [
+        "* Physical Training"
+      ],
+      "name": "Water Activities",
+      "venue": "Neptune Lake",
+      "description": "Astronauts train underwater because neutral buoyancy is the closest we can come on earth to creating a weightless environment in which astronauts can train. The activities are designed to create some of those same sensations as well as opportunities for teams to work together and practice team-building skills.",
+      "speakers": [
+        {
+          "username": "neil_armstrong.1w8kfpcj",
+          "id": "3677032",
+          "name": "Neil Armstrong",
+          "first_name": "Neil",
+          "last_name": "Armstrong",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571767200,
+      "end": 1571770800,
+      "start_date_group": "2019-10-22",
+      "shortlink": "https:\/\/sched.co\/K7pQ"
+    },
+    {
+      "id": "255553b2532d0d23707932b8b7ab32d3",
+      "event_type_sort": 7,
+      "event_type": [
+        "*History"
+      ],
+      "name": "Astronaut Missions: Apollo",
+      "venue": "Mercury Exhibition Hall",
+      "description": "This session chronicals some of the most exciting moments in the space race. Trainees find out how NASA recoved from the tragic Apollo 1 fire, how engineers designed the vehicles that transported men to the moon and what astronauts and scientists discovered from these trips.",
+      "speakers": [
+        {
+          "username": "buzz_aldrin.1u3o2d4v",
+          "id": "2168712",
+          "name": "Buzz Aldrin",
+          "first_name": "Buzz",
+          "last_name": "Aldrin",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571767200,
+      "end": 1571770800,
+      "start_date_group": "2019-10-22",
+      "shortlink": "https:\/\/sched.co\/K7pN"
+    },
+    {
+      "id": "89af43d3965f914c36b318a58034471f",
+      "event_type_sort": 3,
+      "event_type": [
+        "Astronaut Training"
+      ],
+      "name": "1\/6th Gravity Chair",
+      "venue": "Mars Auditorium",
+      "description": "Find out how it would feel to walk on the moon, where there is only one sixth of the Earth&rsquo;s gravity, in this simulator inspired by the Apollo program.",
+      "speakers": [
+        {
+          "username": "peggy_witson.1z2ayjg5",
+          "id": "6996370",
+          "name": "Peggy Witson",
+          "first_name": "Peggy",
+          "last_name": "Witson",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571767200,
+      "end": 1571770800,
+      "start_date_group": "2019-10-22",
+      "shortlink": "https:\/\/sched.co\/K7pK"
+    },
+    {
+      "id": "5740511c2d4a368f177d6ae0d64f8ed0",
+      "event_type_sort": 7,
+      "event_type": [
+        "*History"
+      ],
+      "name": "Mars Mission",
+      "venue": "Uranus Gallery",
+      "description": "Test the soil, mineral makeup, landscape, acidity and radioactivity of four areas on Mars. Then decide which area would be the most suitable for human inhabitation.",
+      "speakers": [
+        {
+          "username": "yuri_gagarin.73tw962",
+          "id": "6996400",
+          "name": "Yuri Gagarin",
+          "first_name": "Yuri",
+          "last_name": "Gagarin",
+          "company": "Soviet Space Program",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571776200,
+      "end": 1571779800,
+      "start_date_group": "2019-10-22",
+      "shortlink": "https:\/\/sched.co\/K7pc"
+    },
+    {
+      "id": "983ef1190c47dfdfa5c9bd815805d2f9",
+      "event_type_sort": 7,
+      "event_type": [
+        "*History"
+      ],
+      "name": "Patch Design",
+      "venue": "Venus Room",
+      "description": "Design a squadron patch that describes your group.",
+      "speakers": [
+        {
+          "username": "jim_lovell.1z2ayjq9",
+          "id": "6996403",
+          "name": "Jim Lovell",
+          "first_name": "Jim",
+          "last_name": "Lovell",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "seats": 0,
+      "start": 1571776200,
+      "end": 1571779800,
+      "start_date_group": "2019-10-22",
+      "shortlink": "https:\/\/sched.co\/K7pW"
+    },
+    {
+      "id": "c723315feb54d368628ee86b6b2d0f60",
+      "event_type_sort": 7,
+      "event_type": [
+        "*History"
+      ],
+      "name": "Robotics Banners",
+      "venue": "Pluto Place",
+      "description": "Create banners to represent the attributes of your <a href=\"https:\/\/en.wikipedia.org\/wiki\/Robotics\" target=\"_self\">robotics<\/a> group.",
+      "speakers": [
+        {
+          "username": "john_glenn.73tw95a",
+          "id": "6996379",
+          "name": "John Glenn",
+          "first_name": "John",
+          "last_name": "Glenn",
+          "company": "NASA",
+          "custom_order": 0
+        },
+        {
+          "username": "peggy_witson.1z2ayjg5",
+          "id": "6996370",
+          "name": "Peggy Witson",
+          "first_name": "Peggy",
+          "last_name": "Witson",
+          "company": "NASA",
+          "custom_order": 1
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "lego.73tw95p",
+          "id": "6996385",
+          "name": "Lego",
+          "first_name": "Lego",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "start": 1571776200,
+      "end": 1571779800,
+      "start_date_group": "2019-10-22",
+      "shortlink": "https:\/\/sched.co\/K7pZ"
+    },
+    {
+      "id": "d91257917f58f090dcd9a1bd0890e2d9",
+      "event_type_sort": 3,
+      "event_type": [
+        "Astronaut Training"
+      ],
+      "name": "Rocket Construction and Launch",
+      "venue": "Saturn Conference Room",
+      "description": "Discover how rockets function by creating and launching your own Estes rocket.",
+      "speakers": [
+        {
+          "username": "sally_ride.1z2ayjny",
+          "id": "6996394",
+          "name": "Sally Ride",
+          "first_name": "Sally",
+          "last_name": "Ride",
+          "company": "NASA",
+          "custom_order": 0
+        }
+      ],
+      "sponsors": [
+        {
+          "username": "nasa.1z2ayjf9",
+          "id": "6996373",
+          "name": "NASA",
+          "first_name": "NASA",
+          "last_name": ""
+        }
+      ],
+      "seats": 0,
+      "moderators": [
+        {
+          "username": "neil_armstrong.1w8kfpcj",
+          "id": "3677032",
+          "name": "Neil Armstrong",
+          "first_name": "Neil",
+          "last_name": "Armstrong",
+          "eventid": "d91257917f58f090dcd9a1bd0890e2d9",
+          "role": "moderator",
+          "company": "NASA"
+        }
+      ],
+      "start": 1571776200,
+      "end": 1571779800,
+      "start_date_group": "2019-10-22",
+      "shortlink": "https:\/\/sched.co\/K7pT"
+    },
+    {
+      "id": "44287cb7dbbb9da1e33a127508fcd378",
+      "event_type_sort": 11,
+      "event_type": [
+        "Space"
+      ],
+      "name": "Mission",
+      "venue": "Jupiter Hall",
+      "description": "Work together to launch the shuttle to the International Space Station, to complete experiments that approximate those conducted in space and to return the crew to Earth. Problem solving and communication is key as problems, or anomalies, arise. In the Space Station you are busy at work completing several experiments in the areas of chemistry, physics and biology.<br \/>",
+      "speakers": [
+        {
+          "username": "chris_hadfield.73tw969",
+          "id": "6996406",
+          "name": "Chris Hadfield",
+          "first_name": "Chris",
+          "last_name": "Hadfield",
+          "company": "Canadian Space Agency",
+          "custom_order": 0
+        },
+        {
+          "username": "valentina_tereshkova.1z2ayjhi",
+          "id": "6996376",
+          "name": "Valentina Tereshkova",
+          "first_name": "Valentina",
+          "last_name": "Tereshkova",
+          "company": "Cosmonaut Corps",
+          "custom_order": 1
+        }
+      ],
+      "exhibitors": [
+        {
+          "username": "taylor_exhibitor.1z2ayjs9",
+          "id": "6996415",
+          "name": "Taylor Exhibitor",
+          "first_name": "Taylor",
+          "last_name": "Exhibitor"
+        }
+      ],
+      "seats": 0,
+      "moderators": [
+        {
+          "username": "jim_lovell.1z2ayjq9",
+          "id": "6996403",
+          "name": "Jim Lovell",
+          "first_name": "Jim",
+          "last_name": "Lovell",
+          "eventid": "44287cb7dbbb9da1e33a127508fcd378",
+          "role": "moderator",
+          "company": "NASA"
+        }
+      ],
+      "start": 1571781600,
+      "end": 1571785200,
+      "start_date_group": "2019-10-22",
+      "shortlink": "https:\/\/sched.co\/K7pf"
+    }
+  ]
+}
