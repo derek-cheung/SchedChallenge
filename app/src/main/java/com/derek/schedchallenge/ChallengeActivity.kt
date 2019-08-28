@@ -2,21 +2,50 @@ package com.derek.schedchallenge
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.view.isVisible
+import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
+import androidx.room.Room
+import com.derek.schedchallenge.db.SchedDatabase
+import com.derek.schedchallenge.repositories.SessionDataImporter
 import com.derek.schedchallenge.repositories.SessionsRepository
 import com.jakewharton.rxbinding3.view.clicks
+import com.jakewharton.rxbinding3.widget.textChanges
+import com.squareup.moshi.Moshi
+import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import kotlinx.android.synthetic.main.activity_main.*
-import org.koin.androidx.viewmodel.ext.android.viewModel
 
 class ChallengeActivity : AppCompatActivity() {
 
-  private val viewModel: ChallengeViewModel by viewModel()
+  private lateinit var viewModel: ChallengeViewModel
 
   private val disposables = CompositeDisposable()
 
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
+    val database = Room.databaseBuilder(this, SchedDatabase::class.java, "sched-db").build()
+
+    viewModel = ChallengeViewModel(
+      logger = Logger(
+        Moshi.Builder()
+          .add(KotlinJsonAdapterFactory())
+          .build()
+      ),
+
+      sessionsRepository = SessionsRepository(
+        schedDatabase = database,
+        sessionDao = database.sessionDao(),
+        personDao = database.personDao(),
+        sessionDataImporter = SessionDataImporter(
+          context = this,
+          moshi = Moshi.Builder()
+            .add(KotlinJsonAdapterFactory())
+            .build()
+        )
+      )
+    )
     setContentView(R.layout.activity_main)
 
     dataTypeSelectionGroup.check(R.id.initialJsonSelection)
@@ -27,6 +56,8 @@ class ChallengeActivity : AppCompatActivity() {
     observeImportDataResults()
     observeDataClearedEvents()
     observeDataDumpEvents()
+    observeSearchInput()
+    observeSessions()
   }
 
   override fun onDestroy() {
@@ -70,6 +101,39 @@ class ChallengeActivity : AppCompatActivity() {
     disposables.add(
       buttonPersonDump.clicks()
         .subscribe { viewModel.dumpPersonData() }
+    )
+  }
+
+  private fun observeSessions() {
+    disposables.add(
+      viewModel.observeSessions()
+        .observeOn(AndroidSchedulers.mainThread())
+        .subscribe { sessions ->
+          if (sessions.isNotEmpty()) {
+            val adapter = SessionAdapter(sessions)
+            listSessions.adapter = adapter
+            listSessions.layoutManager = LinearLayoutManager(
+              this,
+              RecyclerView.VERTICAL,
+              false
+            )
+
+            dataTypeSelectionGroup.isVisible = false
+            buttonClear.isVisible = false
+            buttonImport.isVisible = false
+            buttonPersonDump.isVisible = false
+            buttonSessionDump.isVisible = false
+          }
+        }
+    )
+  }
+
+  private fun observeSearchInput() {
+    disposables.add(
+      searchBar.textChanges()
+        .subscribe { text ->
+          viewModel.search(text.toString())
+        }
     )
   }
 

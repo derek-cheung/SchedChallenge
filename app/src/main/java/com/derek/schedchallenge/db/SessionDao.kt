@@ -25,4 +25,7 @@ interface SessionDao {
 
   @Query("SELECT * FROM Session")
   fun getAllSessions(): Single<List<Session>>
+
+  @Query("SELECT * FROM Session WHERE name LIKE :input")
+  fun getSessionsForInput(input: String): Single<List<Session>>
 }

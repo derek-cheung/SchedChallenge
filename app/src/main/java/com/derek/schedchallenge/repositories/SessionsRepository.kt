@@ -19,7 +19,7 @@ class SessionsRepository(
   enum class SessionDataType(
     val fileName: String
   ) {
-    INITIAL("initial.json"),
+    INITIAL("export.json"),
     EDITED("edited.json"),
     DELETED("deleted.json")
   }
@@ -125,6 +125,9 @@ class SessionsRepository(
 
   fun getAllSessions(): Single<List<Session>> =
     sessionDao.getAllSessions()
+
+  fun getAllSessionsForInput(input: String): Single<List<Session>> =
+    sessionDao.getSessionsForInput(input)
 
   fun getAllPersons(): Single<List<Person>> =
     personDao.getAllPersons()
