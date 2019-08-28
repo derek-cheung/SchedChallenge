@@ -7,7 +7,7 @@ import androidx.room.PrimaryKey
 data class Person(
   @PrimaryKey
   val id: String,
-  val name: String
+  val name: String? = ""
 ) {
 
   override fun equals(other: Any?): Boolean =

@@ -6,10 +6,12 @@ import com.derek.schedchallenge.models.Session
 import com.derek.schedchallenge.repositories.SessionsRepository
 import io.reactivex.Observable
 import io.reactivex.Single
+import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.functions.Function3
 import io.reactivex.functions.Function6
 import io.reactivex.schedulers.Schedulers
+import io.reactivex.subjects.BehaviorSubject
 import io.reactivex.subjects.PublishSubject
 
 class ChallengeViewModel(
@@ -25,15 +27,19 @@ class ChallengeViewModel(
 
   private val disposables = CompositeDisposable()
 
+  private val sessions = BehaviorSubject.create<List<Session>>()
   private val importDataResults = PublishSubject.create<ImportDataResults>()
   private val dataClearedEvents = PublishSubject.create<Unit>()
   private val dataDumpEvents = PublishSubject.create<String>()
+
+  private var allSessions: List<Session> = listOf()
 
   override fun onCleared() {
     disposables.dispose()
     super.onCleared()
   }
 
+  fun observeSessions(): Observable<List<Session>> = sessions.hide()
   fun observeImportDataResults(): Observable<ImportDataResults> = importDataResults.hide()
   fun observeDataClearedEvents(): Observable<Unit> = dataClearedEvents.hide()
   fun observeDataDumpEvents(): Observable<String> = dataDumpEvents.hide()
@@ -70,7 +76,7 @@ class ChallengeViewModel(
           sessionsRepository.deletePersons(deletedPersons),
           sessionsRepository.updatePersons(changedPersons),
           Function6 { inserts: Int, deletes: Int, updates: Int, _: Int, _: Int, _: Int ->
-            ImportDataResults(
+            sessionData.sessions to ImportDataResults(
               numberOfInsertedResults = inserts,
               numberOfDeletedResults = deletes,
               numberOfUpdatedResults = updates
@@ -79,7 +85,9 @@ class ChallengeViewModel(
         )
       }
       .subscribeOn(Schedulers.io())
-      .subscribe { results ->
+      .subscribe { (sessions, results) ->
+        this.sessions.onNext(sessions)
+        this.allSessions = sessions
         importDataResults.onNext(results)
       }
     )
@@ -103,6 +111,16 @@ class ChallengeViewModel(
         )
       }
     )
+  }
+
+  fun search(input: String) {
+    disposables.add(sessionsRepository
+      .getAllSessionsForInput(input)
+      .subscribeOn(Schedulers.io())
+      .observeOn(AndroidSchedulers.mainThread())
+      .subscribe { filteredSessions ->
+        this.sessions.onNext(filteredSessions)
+      })
   }
 
   fun dumpPersonData() {

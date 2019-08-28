@@ -8,7 +8,7 @@ import androidx.room.PrimaryKey
 data class Session(
   @PrimaryKey
   val id: String,
-  val name: String,
+  val name: String? = "",
   val description: String,
   val speakers: List<String>,
   val sponsors: List<String>,

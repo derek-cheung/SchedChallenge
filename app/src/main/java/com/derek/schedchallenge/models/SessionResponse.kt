@@ -4,7 +4,7 @@ import androidx.room.ColumnInfo
 
 data class SessionResponse(
   val id: String,
-  val name: String,
+  val name: String? = "",
   val description: String = "",
   val speakers: List<Person> = listOf(),
   val sponsors: List<Person> = listOf(),
@@ -12,9 +12,9 @@ data class SessionResponse(
   val artists: List<Person> = listOf(),
   val exhibitors: List<Person> = listOf(),
 
-  @ColumnInfo(name = "start_time")
+  @ColumnInfo(name = "start")
   val startTime: Long = 0,
 
-  @ColumnInfo(name = "end_time")
+  @ColumnInfo(name = "end")
   val endTime: Long = 0
 )
